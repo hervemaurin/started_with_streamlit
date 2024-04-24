@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fc63b1b-b818-48cc-993b-697e720805ef" name="Changes" comment="Interact with chatgpt">
+    <list default="true" id="7fc63b1b-b818-48cc-993b-697e720805ef" name="Changes" comment="Interact with chatgpt mit openai version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interaction_with_chatgpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/interaction_with_chatgpt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713995586997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Interact with chatgpt">
+      <option name="closed" value="true" />
+      <created>1713997600586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713997600586</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Interact with chatgpt mit openai version">
+      <option name="closed" value="true" />
+      <created>1713999381964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713999381964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +262,7 @@
     <MESSAGE value="My first streamlit app" />
     <MESSAGE value="Create a new module" />
     <MESSAGE value="Interact with chatgpt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interact with chatgpt" />
+    <MESSAGE value="Interact with chatgpt mit openai version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interact with chatgpt mit openai version" />
   </component>
 </project>
